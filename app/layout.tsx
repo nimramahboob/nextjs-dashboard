@@ -8,3 +8,7 @@ export default function RootLayout({children}: { children: React.ReactNode}) {
     </html>
   );
 }
+
+// "engines": {
+//   "node": "18.17.0"
+// }
